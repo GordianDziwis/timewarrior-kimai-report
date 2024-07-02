@@ -520,7 +520,7 @@ dependencies = [
 [[package]]
 name = "kimai"
 version = "0.1.0"
-source = "git+https://github.com/scattenlaeufer/kimai-rs.git#9be4ba56b66d9dea42caa4a8e710b2a5d05c9284"
+source = "git+https://github.com/GordianDziwis/kimai-rs#58a5252e2b6fe1426650b231758d6389838319d5"
 dependencies = [
  "chrono",
  "clap",
